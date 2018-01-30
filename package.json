@@ -1,0 +1,41 @@
+{
+  "name": "cordova-plugin-toto",
+  "version": "0.1.0-dev",
+  "description": "Cordova Toto Plugin",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-semistandard": "^11.0.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-node": "^5.0.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+    "cordova": {
+    "id": "cordova-plugin-toto",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregoireternon/CordovaPluginToto.git"
+  },
+  "keywords": [
+    "cordova",
+    "toto",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "gregoire ternon",
+  "license": "Apache 2.0",
+  "scripts": {
+    "eslint": "node node_modules/eslint/bin/eslint www && node node_modules/eslint/bin/eslint src && node node_modules/eslint/bin/eslint tests",
+    "test": "npm run eslint"
+  },
+  "bugs": {
+    "url": "https://github.com/gregoireternon/CordovaPluginToto/issues"
+  },
+  "types": "./types/index.d.ts",
+  "homepage": "https://github.com/gregoireternon/CordovaPluginToto#readme"
+}

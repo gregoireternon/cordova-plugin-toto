@@ -1,0 +1,14 @@
+{
+  "name": "cordova-plugin-toto-tests",
+  "version": "0.1.0-dev",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-toto-tests",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "",
+  "license": "Apache 2.0"
+}
