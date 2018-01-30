@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gregoireternon/CordovaPluginToto.git"
+    "url": "git+https://github.com/gregoireternon/cordova-plugin-toto.git"
   },
   "keywords": [
     "cordova",
@@ -34,8 +34,8 @@
     "test": "npm run eslint"
   },
   "bugs": {
-    "url": "https://github.com/gregoireternon/CordovaPluginToto/issues"
+    "url": "https://github.com/gregoireternon/cordova-plugin-toto/issues"
   },
   "types": "./types/index.d.ts",
-  "homepage": "https://github.com/gregoireternon/CordovaPluginToto#readme"
+  "homepage": "https://github.com/gregoireternon/cordova-plugin-toto#readme"
 }

@@ -27,7 +27,7 @@
     <description>Cordova Toto Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,toto</keywords>
-    <repo>https://github.com/gregoireternon/CordovaPluginToto.git</repo>
+    <repo>https://github.com/gregoireternon/cordova-plugin-toto.git</repo>
 
     <js-module src="www/toto.js" name="toto">
         <clobbers target="toto" />
